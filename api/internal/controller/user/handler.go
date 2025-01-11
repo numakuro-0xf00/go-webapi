@@ -3,6 +3,9 @@ package user
 import "github.com/gin-gonic/gin"
 
 type UserHandler struct {}
+type ResponseUser struct {}
+type RequestUserParam struct {}
+type Response struct {}
 
 // GetUsers godoc
 // @Summary ユーザー一覧を取得
