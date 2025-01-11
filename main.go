@@ -1,4 +1,6 @@
-package main
+
+package github.com/numakuro-0xf00/go-webapi
+
 
 import (
     "github.com/gin-gonic/gin"
